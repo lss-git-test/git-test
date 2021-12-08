@@ -1,1 +1,2 @@
-#Git 测试
+#Git: git push
+#Github: git pull 
